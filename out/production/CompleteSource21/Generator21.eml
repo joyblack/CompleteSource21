@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="classes12.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/classes12.jar!/"/>
+	</lib>
+	<lib name="sdoapi.zip" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/sdoapi.zip!/"/>
+	</lib>
+	<levels>
+		<level name="lib" value="project"/>
+	</levels>
+</component>
